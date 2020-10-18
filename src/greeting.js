@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const greetingForm = document.querySelector(".js-greeting-form"),
   greetingInput = greetingForm.querySelector("input"),
   greetingH4 = document.querySelector(".js-greeting");
